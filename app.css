@@ -461,11 +461,11 @@ section{
     .container{
         width: 475px;
     }
-    #header-img, .profile button>span:nth-child(1), .input-image{
+    .profile button>span:nth-child(1), .input-image{
         display: none;
     }
-    #header-icon-img{
-        background-image: url("https://crushingit.tech/hackathon-assets/shopify-icon.svg");
+    #header-img{
+        content: url("https://crushingit.tech/hackathon-assets/shopify-icon.svg") !important;
     }
 }
 /* Very small screens */
