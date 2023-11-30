@@ -1,5 +1,5 @@
 # Shopify
-Built this Shopify website during a hackathon using only Html, CSS, and Javascript.
+Built this Shopify website during a hackathon using only Html, CSS, and Javascript. Site link: https://leovihildo.github.io/Shopify/
 
 # Accessiblilty
 It is accessible to keyboard users and visually impaired users (screen readers)
