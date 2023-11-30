@@ -475,6 +475,9 @@ section{
         height: 400px;
         margin: 0;
     }
+    .header-icon{
+    margin-right: 5%;
+    }
     .search-icon{
         width: 20px;
         height: 20px;
